@@ -1,0 +1,32 @@
+.calcular{
+    padding: 20px;
+    display: block;
+    text-align: center;
+    background: rgb(74, 81, 94);
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 black;
+
+}
+
+.calcular input{
+    background: rgb(2, 88, 128);
+    margin: 15px;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 25px;    
+    color: white;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgb(2, 41, 128);
+
+}
+.calcular input:hover{
+    background: rgb(50, 67, 104);
+}
+
+.calcular h1{
+    background-color: rgba(0, 0, 0, 0.199);
+    border-radius: 25px;
+    color: white;
+    margin: 15px;
+    padding: 5px;
+}

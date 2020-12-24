@@ -21,11 +21,9 @@ import './calc.css';
         if("somar" === e){
             let valorinicial  = x + y;
             this.setState({valorinicial});
-            console.log(this.state.valorinicial);
         }else if("subt" === e){
             let valorinicial  = x - y;
             this.setState({valorinicial});
-            console.log(this.state.valorinicial);
         }
 
         
